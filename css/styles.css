@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.logo {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+.image img{
+    margin-bottom: 35px;
+    width: 100%;
+}
+.we{
+    text-align: center;
+    font-size: larger;
+    margin-bottom: 15px;
+}
+.h11{
+    color: hsl(0, 36%, 70%);
+}
+.h12{
+    color: black;
+}
+.h13{
+    color: black;
+}
+.para{
+    text-align: center;
+    color: hsl(0, 36%, 70%);
+    margin-bottom: 20px;
+}
+.input input{
+    border-radius: 30px;
+    height: 30px;
+    width: 80%;
+    margin-left: 35px;
+    margin-bottom: 50px;
+    border-style: solid;
+    border-color:hsl(0, 36%, 70%);   
+}
+
